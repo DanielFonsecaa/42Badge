@@ -5,6 +5,13 @@ Live website:
 
 ***https://badge-umber.vercel.app/***
 
+## 🌟 Example Badge
+[![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fbadge42-f.vercel.app%2Fakira.gif&accent=%23FFFF00&fg=%23FFFF00&titleCol=%23FFFF00&bodyTextColor=%23FFFF00&borderColor=%23FFFF00&shadowColor=%23FFFF00&borderWidth=3)](https://github.com/dda-fons)
+
+
+<a href="https://github.com/DanielFonsecaa/42Badge"><img src="https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FSO4O7W0WOeAAAAAd%2Fmotorcycle-anime.gif&accent=%23FFFF00&fg=%23FFFF00&titleCol=%23FFFF00&bodyTextColor=%23FFFFFF&borderColor=%23FFFF00&shadowColor=%23798B10&shadowSize=40&borderWidth=4&bgColor=%230A0F24" alt="42 Badge "/></a>
+
+[![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExcWU2eXowb213emxlc2xhbHlzamdneXZ3ZjN6d3h3cnA3eTViN2x5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FqpVWnb0RmtmdG%2Fgiphy.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23000000&borderColor=%23FFFFFF&shadowColor=%23FFFFFF&shadowSize=24&borderWidth=1&bgColor=%230A0F24)](https://github.com/dda-fons)
 
 This site allows you to create a personalized SVG badge showing your
 
@@ -128,6 +135,3 @@ All GIFs are embedded as Base64 inside the final SVG to avoid CORS issues.
 - 42 Intra API integration
 - Dynamic SVG generation
 - GIF embedding & Base64 conversion
-
-## 🌟 Example Badge
-[![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fbadge42-f.vercel.app%2Fakira.gif&accent=%23FFFF00&fg=%23FFFF00&titleCol=%23FFFF00&bodyTextColor=%23FFFF00&borderColor=%23FFFF00&shadowColor=%23FFFF00&borderWidth=3)](https://github.com/dda-fons)
